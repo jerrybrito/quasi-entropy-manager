@@ -1,0 +1,2 @@
+# Requires: impossible-maybe
+# (Not available on PyPI)
